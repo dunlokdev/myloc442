@@ -1,5 +1,5 @@
 # Hi, I'm Dunloc! <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
-<a href=https://www.facebook.com/dunloc.neee/> <img src="https://img.shields.io/badge/-Facebok-blue"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
+<a href=https://www.facebook.com/dunloc.neee target="_blank"/> <img src="https://img.shields.io/badge/-Facebok-blue"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 
 ✨ My name is Duong Loc. I’m interested in Deverloper Website 💻
 
