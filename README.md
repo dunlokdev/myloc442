@@ -1,4 +1,4 @@
-# Hello, welcome to Github me 🤗 <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
+# Hello, welcome to my Github profile ~~ 🤗 <img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 <a href=https://www.facebook.com/dunloc.neee target="_blank"/> <img src="https://img.shields.io/badge/-Facebok-blue"> </a> <img src="https://komarev.com/ghpvc/?username=anhduy1202&color=blue">
 
 ✨ My name is Duong Loc. I’m interested in Deverloper Website 💻
@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myloc442&theme=tokyonight&layout=compact&langs_count=5">
 
-📫 How to reach me ^^ 
+📫 How to ask for me :"))
 
 ## Thank you for visited github me 🥰🥰
 
